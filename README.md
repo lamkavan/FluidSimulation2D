@@ -50,5 +50,5 @@ cd into the src directory. From there you need to issue the following commands.
     ```
 
     Note that some of the directory/folder names may be different for you. Also note, that the instructions may vary depending on your OS.
-    In general, the steps above are very standard for compiling and running java code. If for whatever reason you are not able to get the 
+    In general, the steps above are very standard for compiling and running Java code. If for whatever reason you are not able to get the 
     code running, please contact me by phone 647-282-7786 or by email kavan.lam@mail.utoronto.ca and I will help you out ASAP.
