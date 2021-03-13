@@ -1,4 +1,4 @@
-2D Fluid Simulation
+# 2D Fluid Simulation
 
 ## Introduction
 The following is a solo project completed for CSC417 Physics Based Animations offered at the University of Toronto.
