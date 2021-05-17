@@ -1,7 +1,7 @@
 # 2D Fluid Simulation
 
 ## Introduction
-The following is a solo project completed for CSC417 Physics Based Animations offered at the University of Toronto.
+The following is a independent project completed for CSC417 Physics Based Animations offered at the University of Toronto.
 In this final project, a 2D fluid simulation is implemented in Java, a short SIGGRAPH style video is created and
 a short SIGGRAPH style paper is written. You will find the details about the code, video and paper below.
 
